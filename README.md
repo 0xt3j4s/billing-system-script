@@ -6,7 +6,7 @@
 
 
 ## Build
-```git clone https://github.com/Tezas-6174/supermarket-billing-system.git```
+`git clone https://github.com/Tezas-6174/supermarket-billing-system.git`
 
 ## Run
 To run the tool, use the command:
