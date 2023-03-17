@@ -6,8 +6,12 @@
 
 
 ## Build
-`git clone https://github.com/Tezas-6174/supermarket-billing-system.git`
+```bash
+git clone https://github.com/Tezas-6174/supermarket-billing-system.git
+```
 
 ## Run
 To run the tool, use the command:
-```go run main.go bill.go```
+```go
+go run main.go bill.go
+```
