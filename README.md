@@ -2,7 +2,7 @@
 
 - Made while learning Go.
 
-- This is a simple command-line tool for the billing system of a supermarket. Adding some more features...
+- This is a simple CRUD app for the billing system of a supermarket. Adding some more features...
 
 
 ## Build
