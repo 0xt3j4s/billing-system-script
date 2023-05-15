@@ -1,8 +1,8 @@
-# supermarket-billing-system
+# billing-system-script
 
-- Made while learning Go.
+- Made while learning Go and APIs.
 
-- This is a simple CRUD app for the billing system of a supermarket. Adding some more features...
+- On running this script, one can perform the basic CRUD operations for a billing system based on user input.
 
 
 ## Build
@@ -11,7 +11,7 @@ git clone https://github.com/Tezas-6174/supermarket-billing-system.git
 ```
 
 ## Run
-To run the tool, use the command:
+To run the script, use the command:
 ```bash
 go run main.go bill.go
 ```
